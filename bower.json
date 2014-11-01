@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "./async.js",
   "ignore": [
-    "./bower_component",
+    "./bower_components",
     "*_test.html",
     "*_test.js"
   ]
